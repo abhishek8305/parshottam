@@ -1,1 +1,0 @@
-print("hello every my self sanjana")
