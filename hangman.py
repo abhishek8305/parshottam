@@ -33,5 +33,5 @@ while attempts > 0 and "_" in guessed:
     else:
         attempts -= 1
         print("Wrong guess!")
-
 if "_" not in guessed:
+
